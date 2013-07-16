@@ -1,0 +1,21 @@
+[submodule "config/modules/apache"]
+	path = config/modules/apache
+	url = git://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "config/modules/apt"]
+	path = config/modules/apt
+	url = git://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "config/modules/firewall"]
+	path = config/modules/firewall
+	url = git://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "config/modules/mysql"]
+	path = config/modules/mysql
+	url = git://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "config/modules/php"]
+	path = config/modules/php
+	url = git://github.com/nodesagency/puppet-php.git
+[submodule "config/modules/stdlib"]
+	path = config/modules/stdlib
+	url = git://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "lighttpd"]
+	path = lighttpd
+	url = ./config/modules/lighttpd/
